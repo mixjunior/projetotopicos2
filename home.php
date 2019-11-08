@@ -20,7 +20,7 @@
 
 			.arquivo{
 
-				width:75px;
+				width:200px;
 				margin-left:20px;
 				float:left;
 
@@ -40,9 +40,13 @@
 			<div id="arquivos">
 				<div class="arquivo">
 					<iframe id="teste" src='arquivos/teste.pdf' style='width:200px; height:200px;' frameborder='0'></iframe>
+						<p>Livro da vida</p>
+						<a href="arquivos/teste.pdf">Donwload</a>
 				</div>
 				<div class="arquivo">
 					<iframe id="teste" src='arquivos/teste2.png' style='width:200px; height:200px;' frameborder='0'></iframe>
+						<p>Livro da vida</p>
+						<a href="arquivos/teste.pdf">Donwload</a>
 				</div>
 			</div>
 		</section>
