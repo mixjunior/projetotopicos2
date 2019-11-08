@@ -39,7 +39,10 @@
 			</form>
 			<div id="arquivos">
 				<div class="arquivo">
-					<iframe id="teste" src='arquivos/teste.php' style='width:50px; height:50px;' frameborder='0'></iframe>
+					<iframe id="teste" src='arquivos/teste.pdf' style='width:200px; height:200px;' frameborder='0'></iframe>
+				</div>
+				<div class="arquivo">
+					<iframe id="teste" src='arquivos/teste2.png' style='width:200px; height:200px;' frameborder='0'></iframe>
 				</div>
 			</div>
 		</section>
